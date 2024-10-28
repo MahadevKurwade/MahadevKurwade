@@ -21,7 +21,4 @@ A simple yet functional calculator that can perform arithmetic operations follow
 - Use the "C" button to clear the display.
 - View your calculation history in the section below the calculator.
 
-## Screenshot
-![Calculator Screenshot](screenshot.png)
-
 
